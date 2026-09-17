@@ -1,0 +1,26 @@
+SITIO WEB DE BENHUR ORTEGÓN CABALLERO
+Paquete preparado para GitHub Pages
+
+DOMINIO CONFIGURADO
+benhurortegon.com
+
+ARCHIVOS QUE DEBEN SUBIRSE AL NIVEL PRINCIPAL DEL REPOSITORIO
+- index.html
+- carpeta assets
+- CNAME
+- .nojekyll
+
+PASOS BREVES
+1. Crear un repositorio público en GitHub.
+2. Seleccionar Add file > Upload files.
+3. Extraer este ZIP en la computadora.
+4. Subir el contenido de la carpeta, no la carpeta completa.
+5. Confirmar que index.html quede en la raíz del repositorio.
+6. Ir a Settings > Pages.
+7. Elegir Deploy from a branch, main y /(root).
+8. En Custom domain escribir: benhurortegon.com
+9. Configurar en Namecheap los cuatro registros A oficiales de GitHub Pages.
+10. Cuando GitHub valide el dominio, activar Enforce HTTPS.
+
+IMPORTANTE
+No renombrar la carpeta assets ni mover sus archivos, porque index.html utiliza esas rutas.
